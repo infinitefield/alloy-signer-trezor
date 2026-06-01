@@ -1,0 +1,11 @@
+/Users/dario/Projects/infinite_field/github/alloy-signer-trezor/target/debug/deps/keccak-4f6145d4e54fda3a.d: /Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/lib.rs /Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/backends.rs /Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/backends/aarch64_sha3.rs /Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/backends/soft.rs /Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/consts.rs /Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/types.rs /Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/../README.md
+
+/Users/dario/Projects/infinite_field/github/alloy-signer-trezor/target/debug/deps/libkeccak-4f6145d4e54fda3a.rmeta: /Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/lib.rs /Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/backends.rs /Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/backends/aarch64_sha3.rs /Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/backends/soft.rs /Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/consts.rs /Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/types.rs /Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/../README.md
+
+/Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/lib.rs:
+/Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/backends.rs:
+/Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/backends/aarch64_sha3.rs:
+/Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/backends/soft.rs:
+/Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/consts.rs:
+/Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/types.rs:
+/Users/dario/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/keccak-0.2.0/src/../README.md:

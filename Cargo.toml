@@ -13,7 +13,7 @@ alloy-signer = { version = "1.6", features = ["eip712"] }
 alloy-sol-types = { version = "1.6", features = ["std"] }
 alloy-dyn-abi = { version = "1.6", features = ["std", "eip712"] }
 
-trezor-client = { version = "=0.1.5", default-features = false, features = ["ethereum"] }
+trezor-client = { version = "=0.1.6", default-features = false, features = ["ethereum"] }
 
 async-trait = "0.1"
 semver = "1"
